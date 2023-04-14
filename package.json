@@ -1,5 +1,5 @@
 {
-  "name": "netflix",
+  "name": "ceylcine",
   "version": "0.1.0",
   "private": true,
   "proxy":"http://localhost:5050/api/",
